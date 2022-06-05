@@ -1,0 +1,12 @@
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\bin\Debug\net6.0\WWProfileMaker.Domain.deps.json
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\bin\Debug\net6.0\WWProfileMaker.Domain.dll
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\bin\Debug\net6.0\WWProfileMaker.Domain.pdb
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.csproj.AssemblyReference.cache
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.AssemblyInfoInputs.cache
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.AssemblyInfo.cs
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.csproj.CoreCompileInputs.cache
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.dll
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\refint\WWProfileMaker.Domain.dll
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.pdb
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\ref\WWProfileMaker.Domain.dll
