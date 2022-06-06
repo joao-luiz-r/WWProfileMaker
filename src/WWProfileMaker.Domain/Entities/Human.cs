@@ -14,7 +14,7 @@ namespace WWProfileMaker.Domain.Entities
 
         public Human(string name, 
                      string background, 
-                     CharacterType characterType, 
+                     EnumCharacterType characterType, 
                      int age, 
                      float height, 
                      float weight, 

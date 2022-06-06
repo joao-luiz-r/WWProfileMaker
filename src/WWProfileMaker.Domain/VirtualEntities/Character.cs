@@ -16,7 +16,7 @@ namespace WWProfileMaker.Domain.VirtualEntities
 
         public string name { get; set; }
         public string background { get; set; }
-        public CharacterType characterType { get; set; }
+        public EnumCharacterType characterType { get; set; }
         public int age { get; set; }
         public float height { get; set; }
         public float weight { get; set; }

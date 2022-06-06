@@ -10,3 +10,5 @@ D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.
 D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\refint\WWProfileMaker.Domain.dll
 D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.pdb
 D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\ref\WWProfileMaker.Domain.dll
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\bin\Debug\net6.0\WWProfileMaker.Domain.runtimeconfig.json
+D:\git\WWProfileMaker\src\WWProfileMaker.Domain\obj\Debug\net6.0\WWProfileMaker.Domain.genruntimeconfig.cache
